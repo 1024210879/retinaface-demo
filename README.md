@@ -12,5 +12,5 @@ mobilenet骨架的人脸检测及人脸关键点检测轻量级网络。win10直
 * 摄像头 ```python detect_camera.py```
 
 # preview
-![test_0](./preview_images/test_0.jpg)
-![test_1](./preview_images/test_1.jpg)
+![test_0](./test/test_0.jpg)
+![test_1](./test/test_1.jpg)
