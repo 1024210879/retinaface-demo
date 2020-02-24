@@ -1,3 +1,3 @@
-python detect.py --image_path test.jpg
+python detect_image.py --image_path ./test/test.jpg
 
 pause
